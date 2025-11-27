@@ -193,13 +193,13 @@ outputs/
 
 ## 📁 Finger Count Output Preview
 
-| Finger Count | Folder Path | Image Files |
-|--------------|-------------|-------------|
-| **0 Fingers** | `outputs/0/` | `image1-0.jpg` |
-| **2 Fingers** | `outputs/2/` | `image1-2.jpg`, `image2-2.jpg`, `image3-2.jpg`, `image4-2.jpg` |
-| **3 Fingers** | `outputs/3/` | `image1-3.jpg`, `image2-3.jpg`, `image3-3.jpg`, `image4-3.jpg` |
-| **4 Fingers** | `outputs/4/` | `image1-4.jpg`, `image2-4.jpg`, `image3-4.jpg` |
-| **5 Fingers** | `outputs/5/` | `image1-5.jpg`, `image2-5.jpg`, `image3-5.jpg` |
+| Finger Count | Preview |
+|--------------|---------|
+| **0 Fingers** | ![](outputs/image1-0.jpg) |
+| **2 Fingers** | ![2-1](outputs/2/image1-2.jpg) ![2-2](outputs/2/image2-2.jpg) ![2-3](outputs/2/image3-2.jpg) ![2-4](outputs/2/image4-2.jpg) |
+| **3 Fingers** | ![3-1](outputs/3/image1-3.jpg) ![3-2](outputs/3/image2-3.jpg) ![3-3](outputs/3/image3-3.jpg) ![3-4](outputs/3/image4-3.jpg) |
+| **4 Fingers** | ![4-1](outputs/4/image1-4.jpg) ![4-2](outputs/4/image2-4.jpg) ![4-3](outputs/4/image3-4.jpg) |
+| **5 Fingers** | ![5-1](outputs/5/image1-5.jpg) ![5-2](outputs/5/image2-5.jpg) ![5-3](outputs/5/image3-5.jpg) |
 
 ---
 
