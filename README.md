@@ -190,12 +190,13 @@ outputs/
 │   └── image3-5.jpg
 └── 0/
     ├── image1-0.jpg
+```
 
 ## 📁 Finger Count Output Preview
 
 | Finger Count | Preview |
 |--------------|---------|
-| **0 Fingers** | ![](outputs/image1-0.jpg) |
+| **0 Fingers** | ![0](outputs/image1-0.jpg) |
 | **2 Fingers** | ![2-1](outputs/2/image1-2.jpg) ![2-2](outputs/2/image2-2.jpg) ![2-3](outputs/2/image3-2.jpg) ![2-4](outputs/2/image4-2.jpg) |
 | **3 Fingers** | ![3-1](outputs/3/image1-3.jpg) ![3-2](outputs/3/image2-3.jpg) ![3-3](outputs/3/image3-3.jpg) ![3-4](outputs/3/image4-3.jpg) |
 | **4 Fingers** | ![4-1](outputs/4/image1-4.jpg) ![4-2](outputs/4/image2-4.jpg) ![4-3](outputs/4/image3-4.jpg) |
